@@ -1,0 +1,2 @@
+INSERT INTO vue_shop.orderlists (orderStatus, isDelete, orderTotal, goodGroupId, createdAt, updatedAt, userId, addressId) VALUES (0, 0, 1513, '24,15,8,10', '2017-11-15 07:07:02', '2017-11-15 07:07:02', 1, 1);
+INSERT INTO vue_shop.orderlists (orderStatus, isDelete, orderTotal, goodGroupId, createdAt, updatedAt, userId, addressId) VALUES (0, 0, 528, '14,24', '2017-11-16 07:54:52', '2017-11-16 07:54:52', 8, 2);

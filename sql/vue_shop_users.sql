@@ -1,0 +1,2 @@
+INSERT INTO vue_shop.users (userName, userPwd, isDelete, createdAt, updatedAt, nickName) VALUES ('liuze', 'e10adc3949ba59abbe56e057f20f883e', 0, '2017-11-16 07:48:49', '2017-11-16 07:48:49', '刘泽');
+INSERT INTO vue_shop.users (userName, userPwd, isDelete, createdAt, updatedAt, nickName) VALUES ('liujing', 'e10adc3949ba59abbe56e057f20f883e', 0, '2017-11-16 07:52:32', '2017-11-16 07:52:32', '刘静');
